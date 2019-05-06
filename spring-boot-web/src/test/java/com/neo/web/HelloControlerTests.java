@@ -27,7 +27,7 @@ import com.neo.web.HelloController;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class HelloControlerTests {
+public class HelloControllerTests {
 
     private MockMvc mvc;
 
